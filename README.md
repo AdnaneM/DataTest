@@ -15,8 +15,6 @@ scikit-learn
 matplotlib 
 
 to install a package : pip install 'package_name'  
-  
-install/dowload Basemap for Windows or Linux  
 
 # Launching the script
 python3 data_test.py
