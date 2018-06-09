@@ -16,8 +16,8 @@ install Basemap for Windows or Linux
 
 # Data
 Import a json file with :  
-'''python
+```python
 import json
 json_data=open("data.json").read()
 data = json.loads(json_data)
-'''
+```
