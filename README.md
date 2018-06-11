@@ -17,7 +17,7 @@ matplotlib
 to install a package : pip install 'package_name'  
 
 # Launching the script
-python3 data_test.py
+python data_test.py
 
 # Data
 Import a json file and create a DataFrame from it
